@@ -10,3 +10,6 @@ SCREENSHOTS
 ML MODEL FOR SENTIMENT ANALYSIS OF TWEETS ON SPECIFIC KEYWORD IN REAL TIME THROUGH TWITTER API
 
 ![picture](apptweet.gif)
+
+reference:
+1: coursera: (https://www.coursera.org/projects/twitter-sentiment-analysis?authMode=login)
